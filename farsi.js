@@ -17,6 +17,6 @@ uitlijning[0].style.textAlign = "right" ;
 
 let paragraaf = document.getElementsByTagName("p");
 for (let i = 0; i < paragraaf.length; i++) {
-    let str = paragraaf[i].style.fontSize = "1.2em" ;
+    let str = paragraaf[i].style.fontSize = "1em" ;
 }
 
