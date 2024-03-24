@@ -101,6 +101,12 @@ background-color: red;
         grid-template-columns: 75px 1fr 75px;
     }  
 
+    .talen{
+        grid-column: 1/4;
+        font-size: 1em;
+        margin-inline: auto;
+    }
+
     #weegschaal {
         padding-block: 50px;
         width: 300px; 
